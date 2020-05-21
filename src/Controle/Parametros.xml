@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Parametros do SGBD</comment>
+<entry key="driver">org.postgresql.Driver</entry>
+<entry key="url">jdbc:postgresql://localhost:5432/trabalho</entry>
+<entry key="usuario">postgres</entry>
+<entry key="senha">InVaL1dA</entry>
+</properties>
